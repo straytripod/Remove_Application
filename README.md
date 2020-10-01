@@ -13,7 +13,9 @@ Interactive Menu Utility (IMU) for removing an application through PowerShell.  
     Modifier: N/A </br>
     DateCreated: September 30 2020 </br>
     DateModifed: 9/30/2020  
-    Warning: Use this at you own risk! Make backups! Create snapshots! I am not responsible for any issues that arises due to the use of this program by anyone other then me. </br>
+     </br>
+ .WARNING: 
+    Use this at you own risk! Make backups! Create snapshots! I am not responsible for any issues that arises due to the use of this program by anyone other then me. </br>
     
 .DEPENDANCIES </br>
    Powershell </br>
